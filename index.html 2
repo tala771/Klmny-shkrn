@@ -1,13 +1,0 @@
-<!DOCTYPE html>
-<html lang="ar">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>كلمني - شكراً</title>
-</head>
-<body style="text-align: center; font-family: Arial; padding: 40px;">
-  <h1>👋 مرحبًا بك في موقع كلمني</h1>
-  <p>موقع بسيط للدردشة بين الأصدقاء</p>
-  <p>قريبًا ستُضاف مزايا جديدة مثل إنشاء مجموعات والدردشة الخاصة</p>
-</body>
-</html>
